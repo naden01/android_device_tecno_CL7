@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/TECNO/CL7
+DEVICE_PATH := device/tecno/CL7
 
 # Inherit from mt6855-common
 include device/transsion/mt6855-common/BoardConfigCommon.mk
